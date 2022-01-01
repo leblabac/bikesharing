@@ -40,4 +40,6 @@ Per the current analysis, some bikes have much higher usage. More analysis is ne
 ![Bike Utilization](https://github.com/leblabac/bikesharing/blob/main/images/BikeUtilization.png)
 
 ## Summary
-It is clear that a bike-share program like NYC's Citi Bike program can be a huge success for a city with an active population.  Des Moines is a great prospect for such a program.
+It is clear that a bike-share program like NYC's Citi Bike program can be a huge success for a city with an active population.  Des Moines is a great prospect for such a program. Two additional analysis/visualizations that might be included for future analysis include:
+- The ages of both male and female riders
+- The stations most riders start or finish at
