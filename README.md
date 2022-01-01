@@ -12,20 +12,34 @@ The results of the analysis have been incorporated into a [story on Tableau Publ
 **Top Starting and Ending Locations**  
 Looking closely, the maps of Citibike usage for both starting and ending locations shows that the maps are essentially the same: most active starting locations are also active ending locations for bike users.
 
-**Checkout Times (Duration of Use)**  
+![Starting_Ending_Locations](https://github.com/leblabac/bikesharing/blob/main/images/Starting_Ending_Locations.png)
+
+**Checkout Times and Utilization by Gender**
 The majority of bikes were utilized for periods of less than 1 hour with the majority of rides being 30 minutes or less. While usage is greater among male riders, the pattern is the same regardless of gender.
+
+![Checkout Times_Duration](https://github.com/leblabac/bikesharing/blob/main/images/Checkout%20Times_Duration.png)
 
 **Utilization by Gender**  
 Male riders utilized bicycles almost three times as often as female riders, the reason for which requires further analysis.  Potential reasons for this may include  safety (perceptions) issues or appearance concerns (i.e. after riding bike to work). Understanding the rationale for less usage by female riders may help increase utilization by this population.
 
+![Gender Breakdown](https://github.com/leblabac/bikesharing/blob/main/images/gender%20breakdown.png)
+
 **Usage by Day and Time / Day and Time by Gender**  
 There is a clear pattern of bicycle usage during the morning commute (7-9 a.m.) and evening commute (4-7 p.m.) during the week, and all day long on weekends. Although male riders are clearly the majority, female users show a similar pattern of usage.
+
+![Usage by Day](https://github.com/leblabac/bikesharing/blob/main/images/Trips_by_weekday.png)
 
 **Subscription Data**  
 Subscriber riders are much more likely to be male, and to a lesser degree female. Those riders identified as customers (i.e. not subscribers) are much less likely to report a gender.
 
+![Subscription Data](https://github.com/leblabac/bikesharing/blob/main/images/Trips_by_user.png)
+
 **Bike Utilization**  
 Per the current analysis, some bikes have much higher usage. More analysis is needed to determine whether there are predictable patterns to determine which bikes get the highest usage based on number of trips taken and total duration of usage.
 
+![Bike Utilization](https://github.com/leblabac/bikesharing/blob/main/images/BikeUtilization.png)
+
 ## Summary
-It is clear that a bike-share program like NYC's Citi Bike program can be a huge success for a city with an active population.  Des Moines is a great prospect for such a program.
+It is clear that a bike-share program like NYC's Citi Bike program can be a huge success for a city with an active population.  Des Moines is a great prospect for such a program. Two additional analysis/visualizations that might be included for future analysis include:
+- The ages of both male and female riders
+- The stations most riders start or finish at
