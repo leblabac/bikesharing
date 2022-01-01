@@ -39,7 +39,14 @@ Per the current analysis, some bikes have much higher usage. More analysis is ne
 
 ![Bike Utilization](https://github.com/leblabac/bikesharing/blob/main/images/BikeUtilization.png)
 
+**Top Stations for Starting Rides**    
+Pershing Square North appears to be the most popular starting point for riders, exceeding its next most popular start location by over 2000 rides. Given its location across Grand Central Station, within minutes of Times Square, the Theater District, The Empire State Building, and the shops on Fifth Avenue and the United Nations, it is unsurprisingly a point of key usage. This could provide insight into optimal locations to place the a bike station.
+
+![Top Locations](https://github.com/leblabac/bikesharing/blob/main/images/PopularStartLocations.png)
+
+er the current analysis, some bikes have much higher usage. More analysis is needed to determine whether there are predictable patterns to determine which bikes get the highest usage based on number of trips taken and total duration of usage.
+
 ## Summary
 It is clear that a bike-share program like NYC's Citi Bike program can be a huge success for a city with an active population.  Des Moines is a great prospect for such a program. Two additional analysis/visualizations that might be included for future analysis include:
 - The ages of both male and female riders
-- The stations most riders start or finish at
+- The most common bike routes utilized
