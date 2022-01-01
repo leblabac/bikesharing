@@ -7,7 +7,7 @@ The purpose of this analytical project was to prepare visualizations that give p
 - the number of bike trips for each type of user and gender for each day of the week.
 
 ## Results
-The results of the analysis have been incorporated into a [story on Tableau Public]
+The results of the analysis have been incorporated into a [story on Tableau Public](https://public.tableau.com/app/profile/laura.blabac/viz/NYCBikesharing_16409893141610/LessonsfromNYCCitiBike)
 
 **Top Starting and Ending Locations**  
 Looking closely, the maps of Citibike usage for both starting and ending locations shows that the maps are essentially the same: most active starting locations are also active ending locations for bike users.
